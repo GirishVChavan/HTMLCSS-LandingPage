@@ -132,13 +132,13 @@ section {
     border: 1px solid #a0a0a0;
 }
 
-.searchButton {
+.search-button {
     background-color: #a0a0a0;
     width: 100px;
     height: 30px;
     color: #ffffff;
     border: 0;
-    padding: 0
+    padding: 0;
 }
 
 .nav-list {
@@ -147,7 +147,7 @@ section {
     margin-top: 10px
 }
 
-    .nav-list a {
+    .nav-list li a {
         font-size: 16px;
         text-transform: uppercase;
         font-weight: 700;
